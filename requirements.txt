@@ -1,5 +1,5 @@
 # Lib saine - version recente, pas de vulnerabilite connue
-requests==2.32.3
+requests==2.33.0
 
 # Lib vulnerable - vieille version avec des CVE connues (ex: CVE-2023-30861)
 flask==2.2.0
